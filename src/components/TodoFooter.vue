@@ -1,6 +1,6 @@
 <template>
     <div class="clearAllContainer">
-        <span class="clearAllBtn" @click="clearTodo">Clear All</span>
+        <span class="clearAllBtn" @click="clearTodo">모두 삭제</span>
     </div>
 </template>
 
